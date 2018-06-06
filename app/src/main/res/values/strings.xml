@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nabdh Technologies</string>
+    <string name="descriptionTitle">Description:</string>
+    <string name="description">Nabdh (in Arabic : نبض) : is a technology company based in Sanaa , Yemen. Founded in 2016. The company provides (hardware and software maintenance services , networks solutions network security, software and IT systems development) \nthe company became one the most reliable and successful companies in Yemen and the Middle East.</string>
+    <string name="email">Email:</string>
+    <string name="emailDesc" translatable="false">contact@nabdh.com</string>
+    <string name="address">Address:</string>
+    <string name="addressDesc">60th street,Sanaa,Yemen</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="descriptionTitle">تبذة عن الشركة:</string>
+    <string name="description">"نبض التقنية شركة تأسست في عام 2016 ، نتخصص في تقديم خدمات التكنولوجيا بكافة أنواعها (صيانة الأجهزة والمعدات الإلكترونية ، تقديم الحلول الشبكة ، تطوير البرمجيات وأنظمة المعلومات)\nوقد حققت نجاحاً باهراً خلال الأعوام الماضية "</string>
+    <string name="app_name">نبض التقنية</string>
+    <string name="email">الإيميل:</string>
+    <string name="address">العنوان:</string>
+    <string name="addressDesc">شارع الستين الغربي ، صنعاء ، اليمن </string>
+</resources>
+
